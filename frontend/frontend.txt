@@ -1,0 +1,1 @@
+Install the npm module in frontend folder
